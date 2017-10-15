@@ -1,14 +1,4 @@
-# ============================================================================
-#
-# Copyright : (c) 2017 SAGEMCOM - ATR-SST
-#
-# The information and source code contained herein is the exclusive
-# property of SAGEMCOM and may not be disclosed, examined, or
-# reproduced in whole or in part without explicit written authorization
-# of the company.
-# Author : BEN CHAABEN Wissem : G507954
-# ============================================================================
-
+# This th robot Framework script of testing GUI using SikuliLibrary
 *** Setting ***
 Library			OperatingSystem
 Library           	SikuliLibrary
